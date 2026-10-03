@@ -40,7 +40,7 @@ Clip Studio Paintex can be useful for character art, manga pages, comic scenes, 
 
 ## What It Looks Like
 
-![Interface](https://celclipsupportprod.s3-ap-northeast-1.amazonaws.com/faq_article_body/7aee/2719/hyjqvjec9jj3skqnuv5ffzbpchv1kxblhjnaad3xhj9jkvrg63/en-us/image)
+![Interface](https://celcliptipsprod.s3-ap-northeast-1.amazonaws.com/tips_article_body/0cb1/1023696/8a77a147da75dc66ef100e76b2d8f3f7)
 
 ---
 
